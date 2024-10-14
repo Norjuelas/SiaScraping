@@ -1,1 +1,5 @@
 selenium
+pandas
+ipykernel
+requests
+bs4
